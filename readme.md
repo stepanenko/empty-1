@@ -11,5 +11,6 @@ When AngularJS bootstraps your application, the HTML compiler traverses the DOM 
 
 ### Why is creating your own directives useful?
 
-Readability. Directives let you write expressive HTML. Looking at index.html you can understand the app’s behavior just by reading the HTML.
-Reusability. Directives let you create self-contained units of functionality. We could easily plug in this directive into another AngularJS app and avoid writing a lot of repetitive HTML.
+**Readability.** Directives let you write expressive HTML. Looking at index.html you can understand the app’s behavior just by reading the HTML.
+
+**Reusability.** Directives let you create self-contained units of functionality. We could easily plug in this directive into another AngularJS app and avoid writing a lot of repetitive HTML.
