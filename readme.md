@@ -1,9 +1,9 @@
 
 ## 1. Python Programming for Developers
 
-Progress: 15 / 170
+Progress: 27 / 170
 
 
-## 2. The Complete Python Programming Course for Beginners
+### 2. The Complete Python Programming Course for Beginners
 
-Progress: 6 / 181 - lots of videos are same
+- lots of videos are same
