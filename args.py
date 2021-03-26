@@ -6,10 +6,11 @@ def multiply(*values):  # asterisk will convert the 'values' to tuple
     return total
 
 
-print(multiply(1, 2, 3, 4))  # 24
+print(multiply(1, 2, 3, 4))
+# 24
 
 
-def get_user(**user):
+def get_user(**user):  # two asterisks will convert the 'user' to dictionary
     print(user)
     print(user["id"])
     print(user["name"])
