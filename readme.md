@@ -1,7 +1,7 @@
 
 ## 1. Python Programming for Developers
 
-Progress: 30 / 170
+Progress: 32 / 170
 
 
 #### 2. The Complete Python Programming Course for Beginners
