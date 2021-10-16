@@ -5,4 +5,4 @@ Instructor: Mosh Hamedani
 
 Progress: 36 / 170
 
-Rewatching: 30 / 170
+Rewatching: 33 / 170

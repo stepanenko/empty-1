@@ -3,7 +3,7 @@ message = "Hello"
 
 
 def greet():
-    # global message  # will grant access to global 'message'
+    global message # will rewrite global 'message' BAD PRACTICE
     message = "Salut"
 
 
