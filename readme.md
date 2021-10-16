@@ -5,4 +5,4 @@ Instructor: Mosh Hamedani
 
 Progress: 36 / 170
 
-Rewatching: 33 / 170
+Rewatched: 1 - 36 (16.10.2021)
